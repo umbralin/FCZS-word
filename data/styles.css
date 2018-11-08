@@ -76,5 +76,14 @@
 .tree_node {
   text-align:left;
 }
+._连接线 {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:10px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 .icon {
 }
