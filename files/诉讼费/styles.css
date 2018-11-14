@@ -332,6 +332,13 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u173_ann {
+  position:absolute;
+  left:384px;
+  top:128px;
+  width:1px;
+  height:1px;
+}
 #u175 {
   position:absolute;
   left:0px;
@@ -873,6 +880,13 @@
   width:4px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u216_ann {
+  position:absolute;
+  left:384px;
+  top:321px;
+  width:1px;
+  height:1px;
 }
 #u218_div {
   position:absolute;
