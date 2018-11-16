@@ -2915,7 +2915,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:95px;
+  width:36px;
   height:24px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -2930,9 +2930,9 @@
 }
 #u362 {
   position:absolute;
-  left:1293px;
+  left:1352px;
   top:223px;
-  width:95px;
+  width:36px;
   height:24px;
   font-size:14px;
   color:#6B6B6B;
@@ -2942,8 +2942,8 @@
   position:absolute;
   left:2px;
   top:2px;
-  width:91px;
-  word-wrap:break-word;
+  width:32px;
+  white-space:nowrap;
 }
 #u364_img {
   position:absolute;
