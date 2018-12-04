@@ -139,6 +139,14 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
 .checkbox {
   text-align:left;
 }
@@ -177,4 +185,7 @@
   text-align:left;
 }
 .flow_shape {
+}
+._图片1 {
+  color:#000000;
 }
