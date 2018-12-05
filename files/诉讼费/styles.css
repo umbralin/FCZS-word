@@ -426,6 +426,13 @@
   width:61px;
   word-wrap:break-word;
 }
+#u143_ann {
+  position:absolute;
+  left:366px;
+  top:171px;
+  width:1px;
+  height:1px;
+}
 #u145_img {
   position:absolute;
   left:0px;
@@ -6764,4 +6771,31 @@
   top:0px;
   width:165px;
   white-space:nowrap;
+}
+#u605_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:127px;
+  height:48px;
+}
+#u605 {
+  position:absolute;
+  left:425px;
+  top:138px;
+  width:127px;
+  height:48px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FF0000;
+  line-height:16px;
+}
+#u606 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:127px;
+  word-wrap:break-word;
 }
