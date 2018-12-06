@@ -6799,3 +6799,33 @@
   width:127px;
   word-wrap:break-word;
 }
+#u607_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:33px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+}
+#u607 {
+  position:absolute;
+  left:829px;
+  top:1080px;
+  width:33px;
+  height:22px;
+  font-size:16px;
+}
+#u608 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:33px;
+  white-space:nowrap;
+}
