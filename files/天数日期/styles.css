@@ -360,6 +360,13 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u4261_ann {
+  position:absolute;
+  left:382px;
+  top:304px;
+  width:1px;
+  height:1px;
+}
 #u4263_div {
   position:absolute;
   left:0px;
@@ -3653,14 +3660,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:157px;
+  width:133px;
   height:17px;
 }
 #u4489 {
   position:absolute;
-  left:1778px;
+  left:1802px;
   top:504px;
-  width:157px;
+  width:133px;
   height:17px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -3673,7 +3680,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:157px;
+  width:133px;
   white-space:nowrap;
 }
 #u4491 {

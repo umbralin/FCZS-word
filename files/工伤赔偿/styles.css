@@ -2414,13 +2414,6 @@
   border-color:transparent;
   outline-style:none;
 }
-#u4827_ann {
-  position:absolute;
-  left:1259px;
-  top:223px;
-  width:1px;
-  height:1px;
-}
 #u4828_div {
   position:absolute;
   left:0px;
@@ -6364,6 +6357,13 @@
   top:7px;
   width:156px;
   word-wrap:break-word;
+}
+#u5103_ann {
+  position:absolute;
+  left:370px;
+  top:1231px;
+  width:1px;
+  height:1px;
 }
 #u5105 {
   position:absolute;

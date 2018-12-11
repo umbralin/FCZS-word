@@ -630,6 +630,13 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u671_ann {
+  position:absolute;
+  left:382px;
+  top:280px;
+  width:1px;
+  height:1px;
+}
 #u673_div {
   position:absolute;
   left:0px;
