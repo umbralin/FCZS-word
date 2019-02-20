@@ -11449,22 +11449,24 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:129px;
+  width:23px;
   height:17px;
 }
 #u10248 {
   position:absolute;
-  left:1713px;
+  left:1775px;
   top:829px;
-  width:129px;
+  width:23px;
   height:17px;
+  font-size:12px;
+  color:#6B6B6B;
   text-align:right;
 }
 #u10249 {
   position:absolute;
   left:0px;
   top:0px;
-  width:129px;
+  width:23px;
   white-space:nowrap;
 }
 #u10250_img {
@@ -11587,7 +11589,7 @@
   left:0px;
   top:0px;
   width:346px;
-  height:115px;
+  height:99px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   box-sizing:border-box;
@@ -11604,12 +11606,12 @@
   left:1519px;
   top:762px;
   width:346px;
-  height:115px;
+  height:99px;
 }
 #u10258 {
   position:absolute;
   left:2px;
-  top:50px;
+  top:42px;
   width:342px;
   visibility:hidden;
   word-wrap:break-word;
